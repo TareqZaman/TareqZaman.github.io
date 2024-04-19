@@ -110,25 +110,27 @@ sections:
           date_end: '2023-12-15'
           date_start: '2023-08-28'
           description: |
-            + Numerical Analysis I: Fall 2023
+            + Math 3132-001 (Numerical Analysis I): Fall 2023
           icon: 
           organization: Per Course Instructor, Mathematics and Statistics
-          organization_url: https://www.mun.ca/math/
+          organization_url: 
           title: Memorial University of Newfoundland
           url: https://www.mun.ca
         - certificate_url: 
           date_end: '2022-12-15'
           date_start: '2018-09-24'
           description: |
-            + Numerical Analysis lab: Fall 2022 
-            + Math Help Centre: Fall 2018 – Spring 2022 
-            + Linear Algebra I: Winter 2021 
-            + Mathematics of Finance: Winter 2020 
-            + Linear Algebra I: Winter 2019, Fall 2019 
+            + Math 3132-002 (Numerical Analysis Lab): Fall 2022 
+            + Math Help Centre: Fall 2018 – Spring 2022
+            + Math 2051 (Linear Algebra II): Winter 2022
+            + Math 2050 (Linear Algebra I): Winter 2021
             + Math Bridging Program: Spring 2020
+            + Math 2090 (Mathematics of Finance): Winter 2020 
+            + Math 2050 (Linear Algebra I): Fall 2019 
+            + Math 1001 (Calculus II): Winter 2019
           icon: 
           organization: Teaching Assistant, Mathematics and Statistics
-          organization_url: https://www.mun.ca/math/
+          organization_url: 
           title: 'Memorial University of Newfoundland'
           url: https://www.mun.ca
         - certificate_url: 
@@ -141,7 +143,7 @@ sections:
             + ENGI 4961 (Fluid Mechanics I): Spring 2016
           icon: 
           organization: Teaching Assistant, Process Engineering
-          organization_url: https://www.mun.ca/engineering/process/
+          organization_url: 
           title: 'Memorial University of Newfoundland'
           url: https://www.mun.ca
         - certificate_url: 
@@ -168,7 +170,7 @@ sections:
             + PME 416 (Reservoir Modeling & Simulation Laboratory): Batch- 2011
           icon: 
           organization: Faculty Member, Petroleum and Mining Engineering
-          organization_url: https://www.cuet.ac.bd/dept/pme/head-welcomemsg
+          organization_url: 
           title: 'Chittagong University of Engineering & Technology'
           url: https://www.cuet.ac.bd
     design:
