@@ -109,7 +109,8 @@ sections:
         - certificate_url: 
           date_end: '2023-12-15'
           date_start: '2023-08-28'
-          description: + Numerical Analysis I: Fall 2023
+          description: |
+            + Numerical Analysis I: Fall 2023
           icon: 
           organization: Per Course Instructor, Mathematics and Statistics
           organization_url: https://www.mun.ca/math/
