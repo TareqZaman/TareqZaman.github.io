@@ -98,7 +98,7 @@ sections:
           date_end: '2023-12-15'
           date_start: '2023-08-28'
           description: |
-            + Math 3132-001 (Numerical Analysis I): Fall 2023
+            + Math 3132 (Numerical Analysis I): Fall 2023
           icon: 
           organization: Per Course Instructor, Mathematics and Statistics
           organization_url: 
@@ -108,7 +108,7 @@ sections:
           date_end: '2022-12-15'
           date_start: '2018-09-24'
           description: |
-            + Math 3132-002 (Numerical Analysis Lab): Fall 2022 
+            + Math 3132-002 (Numerical Analysis I Laboratory): Fall 2022 
             + Math Help Centre: Fall 2018 – Spring 2022
             + Math 2051 (Linear Algebra II): Winter 2022
             + Math 2050 (Linear Algebra I): Winter 2021
