@@ -26,7 +26,7 @@ sections:
       items:
         - title: Postdoctoral Fellow
           company: Memorial University of Newfoundland
-          company_url: ''
+          company_url: https://www.mun.ca
           company_logo: ''
           location: St. John's, NL, Canada
           date_start: '2023-04-01'
@@ -34,7 +34,7 @@ sections:
           description: ''
         - title: Per Course Instructor
           company: Memorial University of Newfoundland
-          company_url: ''
+          company_url: https://www.mun.ca
           company_logo: ''
           location: St. John's, NL, Canada
           date_start: '2023-08-28'
@@ -42,7 +42,7 @@ sections:
           description: ''
         - title: Research and Teaching Assistant
           company: Memorial University of Newfoundland
-          company_url: ''
+          company_url: https://www.mun.ca
           company_logo: ''
           location: St. John's, NL, Canada
           date_start: '2018-09-24'
@@ -50,7 +50,7 @@ sections:
           description: ''
         - title: Assistant Professor
           company: Chittagong University of Engineering & Technology
-          company_url: ''
+          company_url: https://www.cuet.ac.bd
           company_logo: ''
           location: Chattogram, Bangladesh
           date_start: '2017-12-03'
@@ -58,7 +58,7 @@ sections:
           description: ''
         - title: Research and Teaching Assistant
           company: Memorial University of Newfoundland
-          company_url: ''
+          company_url: https://www.mun.ca
           company_logo: ''
           location: St. John's, NL, Canada
           date_start: '2016-01-15'
@@ -66,7 +66,7 @@ sections:
           description: ''
         - title: Assistant Professor
           company: Chittagong University of Engineering & Technology
-          company_url: ''
+          company_url: https://www.cuet.ac.bd
           company_logo: ''
           location: Chattogram, Bangladesh
           date_start: '2015-07-02'
@@ -74,7 +74,7 @@ sections:
           description: ''
         - title: Lecturer
           company: Chittagong University of Engineering & Technology
-          company_url: ''
+          company_url: https://www.cuet.ac.bd
           company_logo: ''
           location: Chattogram, Bangladesh
           date_start: '2011-10-12'
@@ -82,18 +82,6 @@ sections:
           description: ''
     design:
       columns: '2'
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: compact
   - block: accomplishments
     content:
       title: 'Courses Taught'
@@ -175,6 +163,18 @@ sections:
           url: https://www.cuet.ac.bd
     design:
       columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
